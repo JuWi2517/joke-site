@@ -1,0 +1,31 @@
+.joke{
+    border-radius: 10px;
+    border: solid 1px white;
+}
+.joke-favourites{
+    border-radius: 10px;
+    border: solid 1px white !important;
+    margin: 20px;
+    display: block;
+    width: auto;
+    height: auto;
+}
+.jokeText{
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 10px;
+}
+.jokeText-favourites{
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 10px;
+}
+#delivery{
+    font-style: italic;
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
